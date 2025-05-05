@@ -2,7 +2,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-# Análisis de Accidentes de Tránsito en Nashville (2018–2021)
+# Análisis de Accidentes de Tránsito en Nashville (2018–2025)
 
 Este proyecto corresponde al **Trabajo Práctico de la Entrega 1** del curso de Data Science II de Coderhouse, realizado por **Pedro Díaz**. El objetivo fue explorar, limpiar y analizar un dataset real de accidentes de tránsito en la ciudad de Nashville para obtener insights que puedan ser útiles para la planificación urbana y la seguridad vial.
 
@@ -27,7 +27,7 @@ datascienceII-coderhouse/
 
 ## 🧠 Abstracto
 
-El análisis busca comprender los factores asociados a los accidentes viales en Nashville entre 2018 y 2021. Se estudian patrones temporales, geográficos, climáticos y de severidad, con el fin de responder preguntas clave y generar visualizaciones útiles para la toma de decisiones.
+El análisis busca comprender los factores asociados a los accidentes viales en Nashville entre 2018 y 2025. Se estudian patrones temporales, geográficos, climáticos y de severidad, con el fin de responder preguntas clave y generar visualizaciones útiles para la toma de decisiones.
 
 ---
 
